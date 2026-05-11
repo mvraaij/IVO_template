@@ -1,2 +1,2 @@
-# Nieuw hoofdstuk over Riemann sommen
-Hierin staat een hoop belangrijke inhoud genoemd!
+# Achtergrond: Riemannsommen
+In dit hoofdstuk staat de achtergrond van integralen: Riemannsommen en hoe deze leiden tot een integraal.
