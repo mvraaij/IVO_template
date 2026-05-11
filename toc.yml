@@ -4,10 +4,11 @@ project:
     #- file: content/Index.md
     #- file: content/Quickstart.md
     - file: content/Introduction.md
-    - file: content/hoofdstuk2.md
-    - file: content/Results.ipynb
-    - file: content/Conclusion.md
-    - title: Appendix
-      children:
-        - file: content/Cheatsheet.md
-        - file: errorlog.md
+    - file: content/TheorieIntegralen.md
+    - file: content/TheorieRiemannSom
+    - file: content/Toepassen.md
+    - file: content/Oefenen.md
+    #- title: Appendix
+    #  children:
+    #   - file: content/Cheatsheet.md
+    #   - file: errorlog.md
