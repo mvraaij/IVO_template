@@ -13,8 +13,11 @@ In de theorie blokken aan de linkerkant vind je de opzet van dit hoofdstuk:
 - Achtergrond: hoe is de integraal ontstaan?
 - Toepassen: hoe moet je de integraal gebruiken?
 - Oefenen: opgaven om te testen of je de theorie snapt.
+
+
+
 <!-- Jupyter Book has been rebuild from ground up using the MyST engine [@doi:10.25080/hwcj9957]. This allows to export content in multiple output formats including HTML, PDF and docx. In this paper we present an overview of the possibilities and demonstrate its working.
--->
+
 ## Achtergrond
 Some background information about Jupyter Book and its features, like exporting to multiple formats as indicated in {numref}`fig-diagram`.
 
@@ -34,3 +37,4 @@ Some figure
 A figure that is in the website but not in the PDF version.
 ```
 +++
+-->
