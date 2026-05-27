@@ -15,6 +15,11 @@ In de theorie blokken aan de linkerkant vind je de opzet van dit hoofdstuk:
 - Oefenen: opgaven om te testen of je de theorie snapt.
 
 
+_Dit online tekstboek bevat eigenlijk theorie van meerdere paragrafen uit een regulier lesboek.
+De focus van deze website ligt op de verdieping m.b.v. de Riemannsommen.
+Deze theorie is vrij diepgaand, dus de doelgroep hiervan is meer richting gymnasium klas 5.
+De hoofdstukken zijn nog niet volledig afgeschreven, maar indicaties van de theorie en inhoud zijn gegeven.
+De widget is het belangrijkere onderdeel: hiermee kunnen leerlingen interactief zien hoe Riemannsommen uiteindeiljk de oppervlakte onder een grafiek kunnen geven._
 
 <!-- Jupyter Book has been rebuild from ground up using the MyST engine [@doi:10.25080/hwcj9957]. This allows to export content in multiple output formats including HTML, PDF and docx. In this paper we present an overview of the possibilities and demonstrate its working.
 

@@ -25,3 +25,6 @@ Laten we twee opties bekijken: de onderkant en de bovenkant van het interval.
 We hebben $$L = \sum_{i=0}^{n-1} f(x_i) \Delta x  $$ en $$R = \sum_{i=0}^{n-1} f(x_{i+1}) \Delta x$$
 
 Deze $L$ noemen we de linkersom en de $R$ noemen we de rechtersom. 
+
+_Deze theorie is vrij hooggegrepen, daar ben ik mij van bewust.
+Dit is nog een voorlopige versie._

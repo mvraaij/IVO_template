@@ -49,5 +49,3 @@ Check: afgeleide $G'(x)= \frac{n+1}{n+1} x^{n+1-1} = 1 \cdot x^n = x^n = g(x)$.
 
 Hoe combineren we nu de primitieve en de integraal?
 De integraal $\int_a^b f(x)dx$ is gelijk aan $$ \int_a^b f(x)dx = F(b)-F(a)$$ met $F(x)$ de primitieve van $f(x)$.
-
-
