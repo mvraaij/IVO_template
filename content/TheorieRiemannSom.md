@@ -22,6 +22,6 @@ n \cdot \Delta x &= b-a \\
 We hebben nu een breedte $\Delta x$ van ons rechthoekje, maar we moeten ook nog een hoogte bepalen.
 Tussen twee punten $x_i$ en $x_{i+1}$ kan een functie meerdere waarden aannemen.
 Laten we twee opties bekijken: de onderkant en de bovenkant van het interval.
-We hebben $$L = \sum_{i=0}^{n-1} f(x_i) \Delta x  $$ en $$U = \sum_{i=0}^{n-1} f(x_{i+1}) \Delta x$$
+We hebben $$L = \sum_{i=0}^{n-1} f(x_i) \Delta x  $$ en $$R = \sum_{i=0}^{n-1} f(x_{i+1}) \Delta x$$
 
-Deze $L$ noemen we de ondersom en de $U$ noemen we de bovensom. 
+Deze $L$ noemen we de linkersom en de $R$ noemen we de rechtersom. 

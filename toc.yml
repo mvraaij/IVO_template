@@ -8,7 +8,7 @@ project:
     - file: content/TheorieRiemannSom.md
     - file: content/Toepassen.md
     - file: content/Oefenen.md
-    - file: content/Results.ipynb
+    - file: content/Riemannsommen.ipynb
     - title: Appendix
       children:
        - file: content/Cheatsheet.md
