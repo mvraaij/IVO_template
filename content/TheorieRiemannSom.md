@@ -5,7 +5,7 @@ We hebben gezien dat de integraal van een functie $f$ tussen $x=a$ en $x=b$ geli
 Hierbij wordt eigenlijk een som genomen van oneindig veel rechthoekjes van dikte $dx$ en hoogte $f(x)$ voor waarden tussen $x=a$ en $x=b$.
 Dit proces kunnen we laten zien als een limietproces.
 De limiet kennen we al van de afgeleide:
-$$ f'(x) = \lim_{h\downarrow 0} \frac{f(x+h)-f(x)}{h}$$
+$$ f'(x) = \lim_{h\to 0} \frac{f(x+h)-f(x)}{h}$$
 Hetzelfde kunnen we doen met de integraal.
 
 We beginnen met het verdelen van het interval $[a,b]$ in een aantal blokjes.
